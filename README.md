@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... yes
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ariyanmaftooh@gmail.com
-- I am a new to github
+- I am new to github
 <!---
 aryanma41/aryanma41 is a ✨ special ✨ repository because i
 ts `README.md` (this file) appears on your GitHub profile.
