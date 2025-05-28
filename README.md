@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryanma41
-- 👀 I’m interested in ... Systems, Bitcoin, Peer to Peer Networks, Cryptography, Aerospace, Physicss. 
+- 👀 I’m interested in ... Systems, Bitcoin, Peer to Peer Networks, Cryptography, Aerospace, Physics. 
 - 🌱 I’m currently learning ... yes
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... ariyanmaftooh@gmail.com
